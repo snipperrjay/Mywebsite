@@ -36,7 +36,7 @@ header .navbar {
 }
 
 .navbar .logo img:hover {
-    filter: drop-shadow(0 0 5px #47f552) drop-shadow(0 0 10px #47f552);
+    filter: drop-shadow(0 0 5px #00c2a7) drop-shadow(0 0 10px #00c2a7);
     transform: scale(1.05);
 }
 
@@ -54,7 +54,7 @@ header .navbar {
 }
 
 .navbar a:hover {
-    color: #47f552;
+    color: #00c2a7;
 }
 
 .hero-section {
@@ -92,7 +92,7 @@ header .navbar {
 
 .hero-section .content button:hover {
     color: #fff;
-    background: #47f552;
+    background: #00c2a7;
 }
 
 .Data-brand-logo img {
